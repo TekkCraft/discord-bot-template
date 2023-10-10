@@ -1,0 +1,8 @@
+{
+  "token": "DISCORD_APP_TOKEN",
+  "clientId": "DISCORD_CLIENT_ID",
+  "cache": {
+    "default": 300000,
+    "get-user": 3600000
+  }
+}
